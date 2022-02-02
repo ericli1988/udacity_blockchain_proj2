@@ -1,12 +1,20 @@
 
 ##
 Truffle version:
+
   Truffle v5.3.4 (core: 5.3.4)
+  
   Solidity - 0.5.1 (solc-js)
+  
   Node v10.13.0
+  
   Web3.js v1.3.5
+  
+  
 ERC721 Token name: Star Token
+
 ERC721 Token symbol: STA
+
 Token address on Rinkeby: "0xB79287eECB0E840C6d0f56Be64606F270A217A18"
 
 
